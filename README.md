@@ -19,7 +19,7 @@ Solução de Problemas!!
 
 Erro de Permissão para logs.txt:
 
-Certifique-se de que o diretório atual possui permissões de escrita:
+O diretório atual possui permissões de escrita:
 
 chmod +w logs.txt
     
