@@ -2,7 +2,6 @@
 HoneyPot simples pra intrusão de rede agressivo!!
 
 Copie seu código honeypot para uma pasta no sistema.
-
 Certifique-se de que os arquivos sentinela.py e requirements.txt (dependências) estão no mesmo diretório.
 Instale todas as bibliotecas necessárias listadas no requirements.txt
 pip install -r requirements.txt
